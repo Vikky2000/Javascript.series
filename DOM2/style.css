@@ -1,0 +1,14 @@
+#main{
+    height: 150px;
+    width:100px;
+    background-color: dodgerblue;
+    color: beige;
+    border: 1px solid black;
+}
+.content{
+    color: red;
+
+}
+.newClass {
+    background-color: green;
+}
